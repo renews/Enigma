@@ -6,7 +6,7 @@ using System.Media;
 using System.Text;
 using System.Threading;
 
-namespace Pyrex
+namespace Enigma
 {
     internal class ProcessMemory
     {

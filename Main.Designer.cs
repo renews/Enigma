@@ -1,4 +1,4 @@
-﻿namespace Pyrex
+﻿namespace Enigma
 {
     partial class Main
     {

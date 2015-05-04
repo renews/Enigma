@@ -13,7 +13,7 @@ using System.Globalization;
 using System.Runtime.InteropServices;
 using System.Threading;
 
-namespace Pyrex
+namespace Enigma
 {
     public partial class Main : Form
     {
